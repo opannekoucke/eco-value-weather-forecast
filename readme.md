@@ -41,3 +41,9 @@ Several strategies are proposed in the [notebook](./study_optimization-wind-powe
 
  * numpy
  * sklearn
+
+**Warning**
+
+This material is intended for educational purposes only. The codes cannot be used for operational purposes. 
+
+Licence: [CeCILL-B](./LICENCE.txt)
