@@ -1,6 +1,7 @@
 Economical value of weather forecasting
 =======================================
 
+Author: Olivier Pannekoucke INPT-ENM/CNRM/CERFACS
 
 
 This work illustrates the economical value of weather forecasting applied to a simulated wind power plant production.
@@ -35,7 +36,7 @@ In particular,  the nature we consider is sensitive to initial errors, which ill
 
 To save money, a generator needs to develop strategies that account for weather uncertainty to better specify the $PE_c$ electricity output it should write to its contract.
 
-Several strategies are proposed in the [notebook](./study_optimization-wind-power-prediction.ipynb), then evaluated in this testbed.
+Several strategies are presented in the [notebook](./study_optimization-wind-power-prediction.ipynb), then evaluated in this testbed.
 
 **Requirements**
 
