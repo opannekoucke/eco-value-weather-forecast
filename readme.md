@@ -41,6 +41,7 @@ Several strategies are proposed in the [notebook](./study_optimization-wind-powe
 
  * numpy
  * sklearn
+ * sympkf
 
 **Warning**
 
