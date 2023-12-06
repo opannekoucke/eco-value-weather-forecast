@@ -4,6 +4,13 @@ Economical value of weather forecasting
 Author: Olivier Pannekoucke INPT-ENM/CNRM/CERFACS
 
 
+
+<center>
+<img width="150" src="figures/logo-universeh.png" alt="log universeh" />   &nbsp;&nbsp;<img width="300" src="figures/logo-enm.png" alt="log ENM" />&nbsp;&nbsp;<img width="150" src="figures/logo-inpt.png" alt="log INPT" />&nbsp;&nbsp;<img width="250" src="figures/logo-univ-toulouse.jpg" alt="log univ-toulouse" />
+</center>
+
+
+
 This work illustrates the economical value of weather forecasting applied to a simulated wind power plant production.
 
 **Assymetric penalties to protect electricity networks**
